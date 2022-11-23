@@ -9,14 +9,15 @@
 body {
     font-family: Oswald, sans-serif;
     font-weight: 300px;
-    color: #3a3a3a;
+    color: #fafafa;
+    background-color: #232323;
 }
 
 h1, h2 {
     font-family: Bitter;
     text-transform: uppercase;
     letter-spacing: 4px;
-    color: #252525;
+    color: #fafafa;
 }
 
 #logo {
@@ -45,9 +46,15 @@ h1, h2 {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #fafafa;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #fafafa;
+}
+
+#hero-image {
+    height: 800px;
+    width: 100%;
+    background: url('../images/Busby-babes-hero-image-3.jpeg') no-repeat center center;
 }
