@@ -66,3 +66,50 @@ h1, h2 {
     width: 100%;
     background: url('../images/Busby-babes-hero-image-3.jpeg') no-repeat center center;
 }
+
+#overview {
+    height: 800px;
+    text-align: center;
+}
+
+#overview-left-1 {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+    background-color: blue;
+}
+
+#overview-image-1 {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+    background-color: aqua;
+}
+
+#overview-right {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+    background-color: chartreuse;
+}
+
+#overview-image-2 {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+    background-color: darkorange;
+}
+
+#overview-left-2 {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+    background-color: hotpink;
+}
+
+#overview-image-3 {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+    background-color: darkred;
+}
